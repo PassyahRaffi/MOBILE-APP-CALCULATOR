@@ -1,0 +1,79 @@
+1. npm install -g expo-cli
+
+2. expo init namaprojectkamu
+	atau
+   expo init namaprojectkamu --template blank
+
+3. cd namaprojectkamu
+
+4. code .
+
+5. #fonts
+npm i @expo-google-fonts/balsamiq-sans @expo/vector-icons @react-navigation/bottom-tabs @react-navigation/native @react-navigation/stack
+
+6. #expo
+npm i expo expo-app-loading expo-font expo-status-bar expo-updates native-base
+
+7. #react
+npm i react react-button react-dom react-native react-native-elements react-native-gesture-handler react-native-safe-area-context react-native-screens react-native-svg react-native-web stack styled-components styled-system
+
+#fonts
+npm i @expo-google-fonts/balsamiq-sans
+npm i @expo/vector-icons
+npm i @react-navigation/bottom-tabs
+npm i @react-navigation/native
+npm i @react-navigation/stack (new)
+
+#expo
+npm i expo
+npm i expo-app-loading
+npm i expo-cli
+npm i expo-font
+npm i expo-status-bar
+npm i expo-updates
+
+#native
+npm i native-base
+
+#react
+npm i react
+npm i react-button
+npm i react-dom
+npm i react-native
+npm i react-native-elements
+npm i react-native-gesture-handler
+npm i react-native-safe-area-context
+npm i react-native-screens
+npm i react-native-svg
+npm i react-native-web
+npm i stack
+npm i styled-components
+npm i styled-system
+
+
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+   }
+
+
+https://jsonplaceholder.typicode.com/posts
+
+1. CALCULATOR
+2. TODO APP
+
+
+
+
+
+
+
+
+
+
+
+
+
